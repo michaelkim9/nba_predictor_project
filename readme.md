@@ -18,4 +18,4 @@ Python, BeautifulSoup, RegEx, Pandas, Numpy, PostGreSQL, Machine Learning Algori
 
 Utilized docker-compose to build the project. `docker-compose.yml` build files located in this repository.
 
-![](https://raw.githubusercontent.com/michaelkim9/nba_predictor_project/master/other_assets/docker_postgres_setup.PNG)
+![](https://raw.githubusercontent.com/michaelkim9/nba_predictor_project/master/other_assets/docker_postgres_setup.png)
